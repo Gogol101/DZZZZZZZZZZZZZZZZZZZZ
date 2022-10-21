@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url(https://pictures.telegram-store.com/channels/texture-seamless/459_2022_10_08_1_.jpg) ;
+}
+.button1
+{
+    width: 500px;
+    height: 300px;
+    background: rgb(0, 255, 123);
+    border: #343434 12px double;
+    border-radius: 30px;
+    margin: 30%;
+    transition: 3s;
+    transition-delay: .2s;
+}
+:hover.button1
+{
+    background: rgb(0, 110, 29);
+    border: #242424 6px double;
+}
